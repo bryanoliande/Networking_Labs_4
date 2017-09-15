@@ -1,0 +1,22 @@
+cp /usr/share/doc/quagga/examples/zebra.conf.sample
+/etc/quagga/zebra.conf
+
+
+cp /usr/share/doc/quagga/examples/ospfd.conf.sample
+/etc/quagga/ospfd.conf
+
+cp /usr/share/doc/quagga/examples/ripd.conf.sample
+/etc/quagga/ripd.conf
+
+I now have 5 files in /etc/quagga/:
+daemons
+debian.conf
+ospfd.conf
+ripd.conf
+zebra.conf
+
+configure daemons
+
+/etc/init.d/quagga start
+/etc/init.d/quagga status
+telnet localhost 2602

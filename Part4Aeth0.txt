@@ -1,0 +1,71 @@
+No.     Time           Source                Destination           Protocol Length Info
+      1 0.000000000    10.0.3.3              224.0.0.9             RIPv2    66     Response
+
+Frame 1: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface 0
+Ethernet II, Src: c8:03:23:88:00:00 (c8:03:23:88:00:00), Dst: IPv4mcast_09 (01:00:5e:00:00:09)
+Internet Protocol Version 4, Src: 10.0.3.3 (10.0.3.3), Dst: 224.0.0.9 (224.0.0.9)
+User Datagram Protocol, Src Port: 520 (520), Dst Port: 520 (520)
+Routing Information Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+      3 7.963001000    10.0.3.10             224.0.0.9             RIPv2    66     Response
+
+Frame 3: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface 0
+Ethernet II, Src: CadmusCo_9c:1b:03 (08:00:27:9c:1b:03), Dst: IPv4mcast_09 (01:00:5e:00:00:09)
+Internet Protocol Version 4, Src: 10.0.3.10 (10.0.3.10), Dst: 224.0.0.9 (224.0.0.9)
+User Datagram Protocol, Src Port: 520 (520), Dst Port: 520 (520)
+Routing Information Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+      6 26.256952000   10.0.3.2              224.0.0.9             RIPv2    66     Response
+
+Frame 6: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface 0
+Ethernet II, Src: c8:02:1a:50:00:00 (c8:02:1a:50:00:00), Dst: IPv4mcast_09 (01:00:5e:00:00:09)
+Internet Protocol Version 4, Src: 10.0.3.2 (10.0.3.2), Dst: 224.0.0.9 (224.0.0.9)
+User Datagram Protocol, Src Port: 520 (520), Dst Port: 520 (520)
+Routing Information Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+      8 36.965755000   10.0.3.10             224.0.0.9             RIPv2    66     Response
+
+Frame 8: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface 0
+Ethernet II, Src: CadmusCo_9c:1b:03 (08:00:27:9c:1b:03), Dst: IPv4mcast_09 (01:00:5e:00:00:09)
+Internet Protocol Version 4, Src: 10.0.3.10 (10.0.3.10), Dst: 224.0.0.9 (224.0.0.9)
+User Datagram Protocol, Src Port: 520 (520), Dst Port: 520 (520)
+Routing Information Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     13 55.162903000   10.0.3.3              224.0.0.9             RIPv2    66     Response
+
+Frame 13: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface 0
+Ethernet II, Src: c8:03:23:88:00:00 (c8:03:23:88:00:00), Dst: IPv4mcast_09 (01:00:5e:00:00:09)
+Internet Protocol Version 4, Src: 10.0.3.3 (10.0.3.3), Dst: 224.0.0.9 (224.0.0.9)
+User Datagram Protocol, Src Port: 520 (520), Dst Port: 520 (520)
+Routing Information Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     16 66.968274000   10.0.3.10             224.0.0.9             RIPv2    66     Response
+
+Frame 16: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface 0
+Ethernet II, Src: CadmusCo_9c:1b:03 (08:00:27:9c:1b:03), Dst: IPv4mcast_09 (01:00:5e:00:00:09)
+Internet Protocol Version 4, Src: 10.0.3.10 (10.0.3.10), Dst: 224.0.0.9 (224.0.0.9)
+User Datagram Protocol, Src Port: 520 (520), Dst Port: 520 (520)
+Routing Information Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     18 77.815132000   10.0.3.2              224.0.0.9             RIPv2    66     Response
+
+Frame 18: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface 0
+Ethernet II, Src: c8:02:1a:50:00:00 (c8:02:1a:50:00:00), Dst: IPv4mcast_09 (01:00:5e:00:00:09)
+Internet Protocol Version 4, Src: 10.0.3.2 (10.0.3.2), Dst: 224.0.0.9 (224.0.0.9)
+User Datagram Protocol, Src Port: 520 (520), Dst Port: 520 (520)
+Routing Information Protocol
+
+No.     Time           Source                Destination           Protocol Length Info
+     20 94.973876000   10.0.3.10             224.0.0.9             RIPv2    66     Response
+
+Frame 20: 66 bytes on wire (528 bits), 66 bytes captured (528 bits) on interface 0
+Ethernet II, Src: CadmusCo_9c:1b:03 (08:00:27:9c:1b:03), Dst: IPv4mcast_09 (01:00:5e:00:00:09)
+Internet Protocol Version 4, Src: 10.0.3.10 (10.0.3.10), Dst: 224.0.0.9 (224.0.0.9)
+User Datagram Protocol, Src Port: 520 (520), Dst Port: 520 (520)
+Routing Information Protocol
